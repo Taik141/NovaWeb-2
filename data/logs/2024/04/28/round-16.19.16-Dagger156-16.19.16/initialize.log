@@ -1,0 +1,201 @@
+Path : /obj/effect/landmark/start/vampirespawn 
+- Didn't return an Initialize hint
+Path : /obj/effect/landmark/start/vampirelord 
+- Didn't return an Initialize hint
+Path : /obj/effect/landmark/start/bandit 
+- Didn't return an Initialize hint
+Path : /obj/effect/landmark/start/new_player 
+- Didn't return an Initialize hint
+Path : /obj/effect/landmark/events/haunts 
+- Didn't return an Initialize hint
+Path : /mob/dview 
+- Didn't call atom/Initialize()
+Path : /mob/living/simple_animal/hostile/retaliate/rogue/wolf 
+- Didn't return an Initialize hint
+Path : /mob/living/simple_animal/hostile/retaliate/rogue/bigrat 
+- Didn't return an Initialize hint
+Path : /mob/living/simple_animal/hostile/retaliate/rogue/saigabuck 
+- Didn't return an Initialize hint
+Path : /mob/living/simple_animal/hostile/retaliate/rogue/chicken 
+- Didn't return an Initialize hint
+Path : /mob/living/simple_animal/hostile/retaliate/rogue/goatmale 
+- Didn't return an Initialize hint
+Path : /mob/living/simple_animal/hostile/retaliate/rogue/goat 
+- Didn't return an Initialize hint
+Path : /mob/living/simple_animal/hostile/retaliate/rogue/cow 
+- Didn't return an Initialize hint
+Path : /obj/item/grown/log/tree/stick 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguegrass/bush 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguegrass 
+- Didn't return an Initialize hint
+Path : /obj/item/natural/stone 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/newtree 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguegrass/maneater 
+- Didn't return an Initialize hint
+Path : /obj/item/natural/rock 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguetree/stump 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguetree/stump/log 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguegrass/maneater/real 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguetree 
+- Didn't return an Initialize hint
+Path : /obj/effect/sunlight 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguetree/burnt 
+- Didn't return an Initialize hint
+Path : /obj/structure/mineral_door/bars 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguegrass/bush/wall/tall 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguegrass/water/reeds 
+- Didn't return an Initialize hint
+Path : /obj/structure/fluff/walldeco/stone 
+- Didn't return an Initialize hint
+Path : /obj/structure/roguewindow 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/butter 
+- Didn't return an Initialize hint
+Path : /obj/structure/fluff/walldeco/chains 
+- Didn't return an Initialize hint
+Path : /obj/structure/mineral_door/wood/donjon 
+- Didn't return an Initialize hint
+Path : /obj/structure/mineral_door/wood 
+- Didn't return an Initialize hint
+Path : /obj/structure/fluff/railing/fence 
+- Didn't return an Initialize hint
+Path : /obj/structure/mineral_door/wood/deadbolt 
+- Didn't return an Initialize hint
+Path : /obj/structure/fluff/railing/wood 
+- Didn't return an Initialize hint
+Path : /obj/structure/roguewindow/stained 
+- Didn't return an Initialize hint
+Path : /obj/item/quiver/bolts 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/grown/rogue/pipeweeddry 
+- Didn't return an Initialize hint
+Path : /obj/structure/roguewindow/openclose 
+- Didn't return an Initialize hint
+Path : /obj/item/paper/scroll 
+- Didn't return an Initialize hint
+Path : /obj/item/quiver/arrows 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/smallrat 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/rogue/crackerscooked 
+- Didn't return an Initialize hint
+Path : /obj/structure/fluff/railing/border 
+- Didn't return an Initialize hint
+Path : /obj/structure/fluff/walldeco/customflag 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/rogueshroom 
+- Didn't return an Initialize hint
+Path : /obj/structure/roguethrone 
+- Didn't return an Initialize hint
+Path : /obj/structure/mineral_door/wood/fancywood 
+- Didn't return an Initialize hint
+Path : /obj/structure/stairs/fancy/l 
+- Didn't return an Initialize hint
+Path : /obj/structure/stairs/fancy/c 
+- Didn't return an Initialize hint
+Path : /obj/structure/stairs/fancy/r 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/egg/loaded 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/rogue/meat/steak 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/grown/wheat 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/grown/apple 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguetree/evil 
+- Didn't return an Initialize hint
+Path : /obj/structure/chair/bench/couch 
+- Didn't return an Initialize hint
+Path : /obj/structure/mineral_door/wood/window 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguegrass/bush/wall 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/rogue/meat/salami 
+- Didn't return an Initialize hint
+Path : /obj/structure/fluff/railing/stonehedge 
+- Didn't return an Initialize hint
+Path : /obj/structure/mineral_door/wood/donjon/stone 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguetree/stump/burnt 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/rogue/meat/poultry 
+- Didn't return an Initialize hint
+Path : /obj/structure/mineral_door/wood/red 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/egg 
+- Didn't return an Initialize hint
+Path : /obj/item/clothing/suit/roguetown/shirt/shortshirt/random 
+- Didn't return an Initialize hint
+Path : /obj/item/clothing/under/roguetown/tights/random 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/rogue/meat/mince/beef 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/rogue/meat/bacon 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/rogue/meat/poultry/cutlet 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/grown/oat 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguegrass/water 
+- Didn't return an Initialize hint
+Path : /obj/structure/chair/bench/couch/r 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/rogue/meat/sausage 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/crow 
+- Didn't return an Initialize hint
+Path : /obj/item/clothing/suit/roguetown/shirt/undershirt/random 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguetree/wise 
+- Didn't return an Initialize hint
+Path : /obj/item/reagent_containers/food/snacks/grown/rogue/sweetleaf 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/roguetree/underworld 
+- Didn't return an Initialize hint
+Path : /obj/structure/underworld/carriage 
+- Didn't return an Initialize hint
+Path : /obj/structure/underworld/carriageman 
+- Didn't return an Initialize hint
+Path : /turf/open/floor/rogue/carpet/lord/left 
+- Didn't return an Initialize hint
+Path : /turf/open/floor/rogue/carpet/lord/center 
+- Didn't return an Initialize hint
+Path : /turf/open/floor/rogue/carpet/lord/right 
+- Didn't return an Initialize hint
+Path : /turf/open/floor/rogue/carpet/lord 
+- Didn't return an Initialize hint
+Path : /obj/item/bodypart/chest 
+- Didn't return an Initialize hint
+Path : /obj/item/bodypart/head 
+- Didn't return an Initialize hint
+Path : /obj/item/bodypart/l_arm 
+- Didn't return an Initialize hint
+Path : /obj/item/bodypart/r_arm 
+- Didn't return an Initialize hint
+Path : /obj/item/bodypart/r_leg 
+- Didn't return an Initialize hint
+Path : /obj/item/bodypart/l_leg 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/newbranch/leafless 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/newleaf 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/newbranch 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/newbranch/connector 
+- Didn't return an Initialize hint
+Path : /obj/structure/flora/newleaf/corner 
+- Didn't return an Initialize hint
+

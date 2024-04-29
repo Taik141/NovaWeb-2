@@ -1,0 +1,37 @@
+Starting up round ID Rous567-15.46.26.
+-------------------------
+GAME: Saved mode is 'extended'
+GAME: Loaded Station in 16.5s!
+GAME: Loaded smallforest in 4.7s!
+GAME: Loaded Box Station in 0s!
+ACCESS: Login: TheGodGuy from 127.0.0.1-2234830288 || BYOND v515.1636
+ACCESS: Mob Login: TheGodGuy/(TheGodGuy) was assigned to a /mob/dead/new_player
+GAME: Loaded smallswamp in 2s!
+GAME: Loaded underworld in 0.6s!
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (13, 66, 4))
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (13, 66, 4))
+EMOTE: *no key*/(chicken) smiles. (rockhill basin (60, 56, 4))
+EMOTE: *no key*/(chicken) smiles. (rockhill basin (61, 54, 4))
+EMOTE: *no key*/(chicken) smiles. (wilderness (66, 100, 8))
+EMOTE: *no key*/(chicken) smiles. (wilderness (67, 98, 8))
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (66, 69, 8))
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (66, 69, 8))
+GAME: TheGodGuy/(TheGodGuy) Client TheGodGuy/(TheGodGuy) has taken ownership of mob TheGodGuy(/mob/dead/new_player) (start area (14, 108, 1))
+GAME: HEY! LISTEN! 3.7 seconds were wasted processing 526 turf(s) (connected to 61686 other turfs) with atmos differences at round start.
+GAME: supply boat loaded at 8,8,12
+ADMIN: TheGodGuy has started the game.
+GAME: GAME SETUP: Divide Occupations success
+GAME: GAME SETUP: create characters success
+GAME: GAME SETUP: collect minds success
+GAME: GAME SETUP: equip characters success
+GAME: GAME SETUP: manifest success
+GAME: GAME SETUP: transfer characters success
+GAME: GAME SETUP: round start events success
+GAME: GAME SETUP: Game start took 0s
+GAME: GAME SETUP: postsetup success
+GAME: *no key*/(TheGodGuy) *no key*/(TheGodGuy) is no longer owning mob TheGodGuy(/mob/dead/new_player) (start area (14, 108, 1))
+ACCESS: Mob Login: TheGodGuy/(Ezra) was assigned to a /mob/living/carbon/human
+GAME: TheGodGuy/(Ezra) Client TheGodGuy/(Ezra) has taken ownership of mob (/mob/living/carbon/human) (start area (14, 108, 1))
+SAY: *no key*/(black cat) "Purr!" FORCED by poly (indoors rt (58, 40, 1))
+ACCESS: Logout: TheGodGuy/(Ezra)
+GAME: TheGodGuy[DC]/(Ezra) TheGodGuy[DC]/(Ezra) is no longer owning mob Ezra(/mob/living/carbon/human) (sophia's cry (124, 74, 3))

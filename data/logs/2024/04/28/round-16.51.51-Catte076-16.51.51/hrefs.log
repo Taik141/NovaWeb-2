@@ -1,0 +1,57 @@
+Starting up round ID Catte076-16.51.51.
+-------------------------
+HREF: Janosciko (usr:Janosciko[(14,108,1)]) : _src_=prefs;preference=playerquality;task=menu
+HREF: Janosciko (usr:Janosciko[(14,108,1)]) : _src_=prefs;preference=patron;task=input
+HREF: Janosciko (usr:Janosciko[(14,108,1)]) : _src_=prefs;preference=faith
+HREF: Janosciko (usr:Janosciko[(14,108,1)]) : _src_=prefs;preference=charflaw;task=input
+HREF: Janosciko (usr:Janosciko[(14,108,1)]) : _src_=prefs;preference=name;task=random
+HREF: Janosciko (usr:Janosciko[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : TheGodGuy src=[mob_23];ready=1
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : _src_=prefs;preference=age;task=input
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : _src_=prefs;preference=domhand
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : _src_=prefs;preference=domhand
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : _src_=prefs;preference=domhand
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : _src_=prefs;preference=domhand
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : _src_=prefs;preference=age;task=input
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : _src_=prefs;preference=name;task=input
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : _src_=prefs;preference=name;task=input
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : TheGodGuy src=[mob_23];late_join=1
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : TheGodGuy src=[mob_23];SelectedJob=Adventurer
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : TheGodGuy src=[mob_23];SelectedJob=Adventurer
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : TheGodGuy src=[mob_23];SelectedJob=Servant
+HREF: Shadowdiaries (usr:Shadowdiaries[(14,108,1)]) : Shadowdiaries src=[mob_27];late_join=1
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=changeslot;
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=name;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=hairstyle;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=eyes;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=charflaw;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=hair;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=name;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Adventurer
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Adventurer
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Adventurer
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Acolyte
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=save
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=changeslot;
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=hairstyle;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=hairstyle;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=hairstyle;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=hairstyle;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=facial_hairstyle;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=hair;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=eyes;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=name;task=input
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=save
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : _src_=prefs;preference=changeslot;
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : Jonoaod src=[mob_29];late_join=1
+HREF: Jonoaod (usr:Jonoaod[(14,108,1)]) : Jonoaod src=[mob_29];SelectedJob=Adventurer

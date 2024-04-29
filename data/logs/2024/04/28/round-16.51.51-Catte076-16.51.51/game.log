@@ -1,0 +1,126 @@
+Starting up round ID Catte076-16.51.51.
+-------------------------
+GAME: Saved mode is 'extended'
+GAME: Loaded Station in 6.9s!
+GAME: Loaded smallforest in 3.3s!
+GAME: Loaded Box Station in 0s!
+GAME: Loaded smallswamp in 2.2s!
+GAME: Loaded underworld in 0.5s!
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (13, 66, 4))
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (13, 66, 4))
+EMOTE: *no key*/(chicken) smiles. (rockhill basin (60, 56, 4))
+EMOTE: *no key*/(chicken) smiles. (rockhill basin (61, 54, 4))
+EMOTE: *no key*/(chicken) smiles. (wilderness (66, 100, 8))
+EMOTE: *no key*/(chicken) smiles. (wilderness (67, 98, 8))
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (66, 69, 8))
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (66, 69, 8))
+GAME: HEY! LISTEN! 4 seconds were wasted processing 526 turf(s) (connected to 61686 other turfs) with atmos differences at round start.
+GAME: supply boat loaded at 8,8,12
+ACCESS: Login: Janosciko from 77.65.104.198-3858295627 || BYOND v514.1589
+ACCESS: Mob Login: Janosciko/(Janosciko) was assigned to a /mob/dead/new_player
+GAME: Janosciko/(Janosciko) Client Janosciko/(Janosciko) has taken ownership of mob Janosciko(/mob/dead/new_player) (start area (14, 108, 1))
+ACCESS: Logout: Janosciko/(Janosciko)
+GAME: Janosciko[DC]/(Janosciko) Janosciko[DC]/(Janosciko) is no longer owning mob Janosciko(/mob/dead/new_player) (start area (14, 108, 1))
+ACCESS: Login: TheGodGuy from 127.0.0.1-2234830288 || BYOND v515.1636
+ACCESS: Mob Login: TheGodGuy/(TheGodGuy) was assigned to a /mob/dead/new_player
+GAME: TheGodGuy/(TheGodGuy) Client TheGodGuy/(TheGodGuy) has taken ownership of mob TheGodGuy(/mob/dead/new_player) (start area (14, 108, 1))
+ADMIN: TheGodGuy/(TheGodGuy) is changing the map to Roguetown
+ADMIN: TheGodGuy has started the game.
+GAME: GAME SETUP: Divide Occupations success
+GAME: GAME SETUP: create characters success
+GAME: GAME SETUP: collect minds success
+GAME: GAME SETUP: equip characters success
+GAME: GAME SETUP: manifest success
+GAME: GAME SETUP: transfer characters success
+GAME: GAME SETUP: round start events success
+GAME: GAME SETUP: Game start took 0s
+GAME: GAME SETUP: postsetup success
+GAME: *no key*/(TheGodGuy) *no key*/(TheGodGuy) is no longer owning mob TheGodGuy(/mob/dead/new_player) (start area (14, 108, 1))
+ACCESS: Mob Login: TheGodGuy/(Aquila) was assigned to a /mob/living/carbon/human
+GAME: TheGodGuy/(Aquila) Client TheGodGuy/(Aquila) has taken ownership of mob (/mob/living/carbon/human) (start area (14, 108, 1))
+SAY: *no key*/(black cat) "Purr!" FORCED by poly (indoors rt (57, 43, 1))
+SAY: *no key*/(Inn cat) "Meow!" FORCED by poly (tavern (61, 100, 5))
+SAY: *no key*/(black cat) "Esp!" FORCED by poly (indoors rt (58, 42, 1))
+SAY: *no key*/(black cat) "Purr!" FORCED by poly (indoors rt (58, 42, 1))
+SAY: *no key*/(Inn cat) "Meow!" FORCED by poly (tavern (61, 100, 5))
+SAY: *no key*/(Inn cat) "Purr!" FORCED by poly (tavern (64, 103, 6))
+SAY: *no key*/(Inn cat) "Meow!" FORCED by poly (tavern (64, 103, 6))
+SAY: *no key*/(black cat) "Meow!" FORCED by poly (indoors rt (57, 42, 1))
+SAY: *no key*/(Inn cat) "Meow!" FORCED by poly (tavern (64, 103, 6))
+SAY: *no key*/(black cat) "Esp!" FORCED by poly (indoors rt (57, 42, 1))
+SAY: *no key*/(Inn cat) "Purr!" FORCED by poly (tavern (64, 103, 6))
+SAY: *no key*/(black cat) "Meow!" FORCED by poly (indoors rt (57, 42, 1))
+SAY: *no key*/(Inn cat) "HSSSSS" FORCED by poly (tavern (66, 103, 6))
+SAY: *no key*/(Inn cat) "Purr!" FORCED by poly (tavern (66, 101, 6))
+SAY: *no key*/(Inn cat) "Meow!" FORCED by poly (tavern (65, 102, 6))
+SAY: *no key*/(black cat) "HSSSSS" FORCED by poly (indoors rt (57, 42, 1))
+ACCESS: Login: Shadowdiaries from 109.223.18.15-3604412011 || BYOND v515.1636
+ACCESS: Mob Login: Shadowdiaries/(Shadowdiaries) was assigned to a /mob/dead/new_player
+GAME: Shadowdiaries/(Shadowdiaries) Client Shadowdiaries/(Shadowdiaries) has taken ownership of mob Shadowdiaries(/mob/dead/new_player) (start area (14, 108, 1))
+ACCESS: Logout: Shadowdiaries/(Shadowdiaries)
+GAME: Shadowdiaries[DC]/(Shadowdiaries) Shadowdiaries[DC]/(Shadowdiaries) is no longer owning mob Shadowdiaries(/mob/dead/new_player) (start area (14, 108, 1))
+SAY: *no key*/(black cat) "HSSSSS" FORCED by poly (indoors rt (58, 41, 1))
+SAY: *no key*/(black cat) "Meow!" FORCED by poly (indoors rt (59, 41, 1))
+ACCESS: Login: Jonoaod from 73.166.145.137-3579967375 || BYOND v515.1636
+ACCESS: Mob Login: Jonoaod/(Jonoaod) was assigned to a /mob/dead/new_player
+GAME: Jonoaod/(Jonoaod) Client Jonoaod/(Jonoaod) has taken ownership of mob Jonoaod(/mob/dead/new_player) (start area (14, 108, 1))
+SAY: *no key*/(black cat) "Meow!" FORCED by poly (indoors rt (61, 39, 1))
+GAME: *no key*/(Jonoaod) *no key*/(Jonoaod) is no longer owning mob Jonoaod(/mob/dead/new_player) (start area (14, 108, 1))
+ACCESS: Mob Login: Jonoaod/(Amira Bastill) was assigned to a /mob/living/carbon/human
+GAME: Jonoaod/(Amira Bastill) Client Jonoaod/(Amira Bastill) has taken ownership of mob (/mob/living/carbon/human) (start area (14, 108, 1))
+ACCESS: Logout: Jonoaod/(Amira Bastill)
+GAME: Jonoaod[DC]/(Amira Bastill) Jonoaod[DC]/(Amira Bastill) is no longer owning mob Amira Bastill(/mob/living/carbon/human) (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+EMOTE: Jonoaod[DC]/(Amira Bastill) snores. (wilderness (6, 46, 8))
+ACCESS: Logout: TheGodGuy/(Aquila)
+GAME: TheGodGuy[DC]/(Aquila) TheGodGuy[DC]/(Aquila) is no longer owning mob Aquila(/mob/living/carbon/human) (sophia's cry (119, 67, 3))

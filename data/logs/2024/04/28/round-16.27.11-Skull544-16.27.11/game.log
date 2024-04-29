@@ -1,0 +1,106 @@
+Starting up round ID Skull544-16.27.11.
+-------------------------
+ACCESS: Login: TheGodGuy from 127.0.0.1-2234830288 || BYOND v515.1636
+ACCESS: Mob Login: TheGodGuy/(TheGodGuy) was assigned to a /mob/dead/new_player
+GAME: Saved mode is 'extended'
+GAME: TheGodGuy/(TheGodGuy) Client TheGodGuy/(TheGodGuy) has taken ownership of mob TheGodGuy(/mob/dead/new_player) (start area (14, 108, 1))
+GAME: Loaded Station in 7.1s!
+GAME: Loaded smallforest in 3.2s!
+GAME: Loaded Box Station in 0s!
+GAME: Loaded smallswamp in 2.1s!
+GAME: Loaded underworld in 0.5s!
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (13, 66, 4))
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (13, 66, 4))
+EMOTE: *no key*/(chicken) smiles. (rockhill basin (60, 56, 4))
+EMOTE: *no key*/(chicken) smiles. (rockhill basin (61, 54, 4))
+EMOTE: *no key*/(chicken) smiles. (wilderness (66, 100, 8))
+EMOTE: *no key*/(chicken) smiles. (wilderness (67, 98, 8))
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (66, 69, 8))
+EMOTE: *no key*/(saiga) smiles. (rockhill basin (66, 69, 8))
+GAME: HEY! LISTEN! 4.2 seconds were wasted processing 526 turf(s) (connected to 61686 other turfs) with atmos differences at round start.
+GAME: supply boat loaded at 8,8,12
+ADMIN: TheGodGuy has started the game.
+GAME: GAME SETUP: Divide Occupations success
+GAME: GAME SETUP: create characters success
+GAME: GAME SETUP: collect minds success
+GAME: GAME SETUP: equip characters success
+GAME: GAME SETUP: manifest success
+GAME: GAME SETUP: transfer characters success
+GAME: GAME SETUP: round start events success
+GAME: GAME SETUP: Game start took 0s
+GAME: GAME SETUP: postsetup success
+GAME: *no key*/(TheGodGuy) *no key*/(TheGodGuy) is no longer owning mob TheGodGuy(/mob/dead/new_player) (start area (14, 108, 1))
+ACCESS: Mob Login: TheGodGuy/(Ezra) was assigned to a /mob/living/carbon/human
+GAME: TheGodGuy/(Ezra) Client TheGodGuy/(Ezra) has taken ownership of mob (/mob/living/carbon/human) (start area (14, 108, 1))
+SAY: *no key*/(black cat) "Meow!" FORCED by poly (indoors rt (57, 40, 1))
+ACCESS: Logout: TheGodGuy/(Ezra)
+GAME: TheGodGuy[DC]/(Ezra) TheGodGuy[DC]/(Ezra) is no longer owning mob Ezra(/mob/living/carbon/human) (indoors rt (120, 68, 3))
+ACCESS: Login: TheGodGuy from 127.0.0.1-2234830288 || BYOND v515.1636
+ACCESS: Mob Login: TheGodGuy/(Ezra) was assigned to a /mob/living/carbon/human
+GAME: Z-TRACKING: Ezra has somehow ended up in Z-level 3 despite being registered in Z-level .
+GAME: TheGodGuy/(Ezra) Client TheGodGuy/(Ezra) has taken ownership of mob Ezra(/mob/living/carbon/human) (indoors rt (120, 68, 3))
+SAY: *no key*/(black cat) "Esp!" FORCED by poly (indoors rt (58, 44, 1))
+SAY: *no key*/(Inn cat) "HSSSSS" FORCED by poly (tavern (59, 101, 5))
+SAY: *no key*/(black cat) "Meow!" FORCED by poly (indoors rt (55, 44, 1))
+SAY: *no key*/(Inn cat) "Esp!" FORCED by poly (tavern (60, 101, 5))
+ACCESS: Logout: TheGodGuy/(Ezra)
+GAME: TheGodGuy[DC]/(Ezra) TheGodGuy[DC]/(Ezra) is no longer owning mob Ezra(/mob/living/carbon/human) (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+SAY: *no key*/(Inn cat) "Meow!" FORCED by poly (tavern (60, 101, 5))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+EMOTE: TheGodGuy[DC]/(Ezra) snores. (indoors rt (120, 69, 3))
+ACCESS: Login: TheGodGuy from 127.0.0.1-2234830288 || BYOND v515.1636
+ACCESS: Mob Login: TheGodGuy/(Ezra) was assigned to a /mob/living/carbon/human
+GAME: Z-TRACKING: Ezra has somehow ended up in Z-level 3 despite being registered in Z-level .
+GAME: TheGodGuy/(Ezra) Client TheGodGuy/(Ezra) has taken ownership of mob Ezra(/mob/living/carbon/human) (indoors rt (120, 69, 3))
+ACCESS: Logout: TheGodGuy/(Ezra)
+GAME: TheGodGuy[DC]/(Ezra) TheGodGuy[DC]/(Ezra) is no longer owning mob Ezra(/mob/living/carbon/human) (indoors rt (120, 69, 3))

@@ -1,0 +1,273 @@
+Starting up round ID Gem853-18.27.47.
+-------------------------
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : TheGodGuy src=[mob_20];ready=1
+HREF: Macaco99 (usr:Macaco99[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Macaco99 (usr:Macaco99[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Castle%20Guard
+HREF: Macaco99 (usr:Macaco99[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Castle%20Guard
+HREF: Macaco99 (usr:Macaco99[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Castle%20Guard
+HREF: Macaco99 (usr:Macaco99[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=4;text=Castle%20Guard
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=charflaw;task=input
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : _src_=prefs;preference=name;task=input
+HREF: Macaco99 (usr:Macaco99[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Acolyte
+HREF: Macaco99 (usr:Macaco99[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Acolyte
+HREF: Macaco99 (usr:Macaco99[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Acolyte
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=hair;task=input
+HREF: Macaco99 (usr:Macaco99[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: Macaco99 (usr:Macaco99[(14,108,1)]) : Macaco99 src=[mob_23];ready=1
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : TheGodGuy src=[mob_20];late_join=1
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=patron;task=input
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=name;task=input
+HREF: TheGodGuy (usr:TheGodGuy[(14,108,1)]) : TheGodGuy src=[mob_20];SelectedJob=Cook
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=faith
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=faith
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=domhand
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=domhand
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=save
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Gravedigger
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=antag;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=antag;task=be_special;be_special_type=Maniac
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=antag;task=be_special;be_special_type=Peasant%20Rebel
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=antag;task=be_special;be_special_type=Bandit
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=antag;task=be_special;be_special_type=Aspirant
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=antag;task=be_special;be_special_type=Vampire%20Lord
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Mercenary
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Adventurer
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Adventurer
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Adventurer
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=4;text=Adventurer
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Adventurer
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Queen
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Queen
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Bog%20Guard
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Bog%20Guard
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Bog%20Guard
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Queen
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Jester
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : _src_=prefs;preference=charflaw;task=input
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=4;text=Queen
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Queen
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Queen
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Queen
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : Jesse mller src=[mob_30];late_join=1
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : Jesse mller src=[mob_30];late_join=1
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : Jesse mller src=[mob_30];late_join=1
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : Jesse mller src=[mob_30];late_join=1
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : Jesse mller src=[mob_30];late_join=1
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : Jesse mller src=[mob_30];late_join=1
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : Jesse mller src=[mob_30];late_join=1
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=bdetail;task=input
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=charflaw;task=input
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=detail;task=input
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=save
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : _src_=prefs;preference=triumphs;task=menu
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : _src_=prefs;preference=triumphs;task=menu
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=name;task=input
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : Jesse mller src=[mob_30];late_join=1
+HREF: Niconato (usr:Niconato[(14,108,1)]) : Niconato src=[mob_25];late_join=1
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=triumphs;task=menu
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : Jesse mller src=[mob_30];late_join=1
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=antag;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : Niconato src=[mob_25];SelectedJob=Bog%20Guard
+HREF: Jesse mller (usr:Jesse mller[(14,108,1)]) : Jesse mller src=[mob_30];SelectedJob=Adventurer
+HREF: Jesse mller (usr:[(29,120,8)]) : src=[mob_30];SelectedJob=Adventurer
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=antag;task=close
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=faith
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=patron;task=input
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=domhand
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=domhand
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Merchant
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Merchant
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Merchant
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=4;text=Merchant
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Adventurer
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Adventurer
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Adventurer
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : _src_=prefs;preference=save
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : Gabriel_do_drip src=[mob_32];late_join=1
+HREF: Gabriel_do_drip (usr:Gabriel_do_drip[(14,108,1)]) : Gabriel_do_drip src=[mob_32];SelectedJob=Merchant
+HREF: Niconato (usr:Urima[(76,70,4)]) : The gabriela rivergard src=[mob_40];inspect_limb=1
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=species;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=patron;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=age;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=charflaw;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=faith
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=playerquality;task=menu
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=s_tone;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=voice;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=save
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=antag;task=menu
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=antag;task=close
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=triumphs;task=menu
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=triumphs;task=menu
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=bdetail;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=detail;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=detail;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=hairstyle;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=save
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=faith
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : P1wewe src=[mob_42];late_join=1
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : P1wewe src=[mob_42];SelectedJob=Adventurer
+HREF: Jesse mller (usr:Devron[(52,89,8)]) : _src_=holder;admin_token=3614806101071356991001107748108557124;ahelp=[0x2103785e];ahelp_action=reply
+HREF: P1wewe (usr:Chloeyaz[(96,71,10)]) : priv_msg=jessemller
+HREF: P1wewe (usr:Chloeyaz[(96,71,10)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(69,106,8)]) : priv_msg=p1wewe
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=name;task=random
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : _src_=prefs;preference=name;task=input
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : P1wewe src=[mob_53];late_join=1
+HREF: P1wewe (usr:P1wewe[(14,108,1)]) : P1wewe src=[mob_53];SelectedJob=Adventurer
+HREF: Jesse mller (usr:Devron[(53,93,8)]) : _src_=holder;admin_token=3614806101071356991001107748108557124;ahelp=[0x21037a62];ahelp_action=reply
+HREF: Niconato (usr:Mourner[(78,108,11)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(53,93,8)]) : priv_msg=niconato
+HREF: Jesse mller (usr:Devron[(53,93,8)]) : priv_msg=niconato
+HREF: Jesse mller (usr:Devron[(45,68,8)]) : _src_=holder;admin_token=3614806101071356991001107748108557124;ahelp=[0x2103817d];ahelp_action=reply
+HREF: Jesse mller (usr:Devron[(45,68,8)]) : priv_msg=gabrieldodrip
+HREF: Gabriel_do_drip (usr:Wanderer[(61,108,11)]) : priv_msg=jessemller
+HREF: P1wewe (usr:Nemis Blach[(73,62,8)]) : The thresher src=[0x2002b8d];inspect=1
+HREF: P1wewe (usr:Nemis Blach[(72,62,8)]) : The pitchfork src=[0x2002b8e];inspect=1
+HREF: P1wewe (usr:Nemis Blach[(72,62,8)]) : The steel dagger src=[0x2053ee9];inspect=1
+HREF: P1wewe (usr:Nemis Blach[(73,61,8)]) : The sickle src=[0x2002c05];inspect=1
+HREF: P1wewe (usr:Nemis Blach[(73,61,8)]) : The sickle src=[0x2002c05];inspect=1
+HREF: Jesse mller (usr:Devron[(59,68,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;revive=[mob_57]
+HREF: Jesse mller (usr:Devron[(59,68,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;sendbacktolobby=[mob_57]
+HREF: Jesse mller (usr:Devron[(59,68,8)]) : priv_msg=gabrieldodrip
+HREF: Jesse mller (usr:Devron[(59,68,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;sendbacktolobby=[mob_51]
+HREF: Jesse mller (usr:Devron[(59,68,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;revive=[mob_51]
+HREF: Jesse mller (usr:Devron[(59,68,8)]) : priv_msg=niconato
+HREF: Niconato (usr:Mourner[(125,109,11)]) : priv_msg=jessemller
+HREF: Niconato (usr:Mourner[(125,111,11)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(59,68,8)]) : priv_msg=niconato
+HREF: Jesse mller (usr:Devron[(59,68,8)]) : priv_msg=niconato
+HREF: Gabriel_do_drip (usr:Wanderer[(56,119,11)]) : priv_msg=jessemller
+HREF: Niconato (usr:Mourner[(127,112,11)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(58,68,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;sendbacktolobby=[mob_57]
+HREF: Jesse mller (usr:Devron[(58,68,8)]) : priv_msg=niconato
+HREF: Niconato (usr:Mourner[(127,107,11)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(58,68,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;getmob=[mob_51]
+HREF: Jesse mller (usr:Devron[(58,68,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;getmob=[mob_51]
+HREF: Jesse mller (usr:Devron[(58,68,8)]) : priv_msg=niconato
+HREF: Niconato (usr:Mourner[(57,66,8)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(58,68,8)]) : _src_=holder;admin_token=3614806101071356991001107748108557124;ahelp=[0x21037881];ahelp_action=reply
+HREF: Niconato (usr:Mourner[(63,51,8)]) : priv_msg=jessemller
+HREF: P1wewe (usr:Nemis Blach[(73,61,9)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(68,49,8)]) : priv_msg=niconato
+HREF: Jesse mller (usr:Devron[(75,57,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;jumpto=[mob_51]
+HREF: Jesse mller (usr:Devron[(59,58,8)]) : priv_msg=niconato
+HREF: Niconato (usr:Mourner[(59,60,8)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(59,58,8)]) : priv_msg=niconato
+HREF: Niconato (usr:Mourner[(59,60,8)]) : priv_msg=jessemller
+HREF: Niconato (usr:Mourner[(59,60,8)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(57,58,8)]) : priv_msg=jessemller
+HREF: Niconato (usr:Mourner[(59,59,8)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(57,58,8)]) : priv_msg=niconato
+HREF: Niconato (usr:Mourner[(58,60,8)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(86,32,8)]) : priv_msg=niconato
+HREF: Niconato (usr:Mourner[(95,19,8)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(106,19,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;revive=[mob_51]
+HREF: Niconato (usr:Mourner[(111,19,8)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(106,19,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;simplemake=ian;mob=[mob_51]
+HREF: Jesse mller (usr:Devron[(109,19,8)]) : priv_msg=niconato
+HREF: Jesse mller (usr:Devron[(109,19,8)]) : priv_msg=niconato
+HREF: Jesse mller (usr:Devron[(109,19,8)]) : priv_msg=niconato
+HREF: Jesse mller (usr:Devron[(109,19,8)]) : priv_msg=niconato
+HREF: Jesse mller (usr:Devron[(109,19,8)]) : priv_msg=niconato
+HREF: Jesse mller (usr:Devron[(109,19,8)]) : priv_msg=niconato
+HREF: Niconato (usr:Niconato[(14,108,1)]) : priv_msg=jessemller
+HREF: Niconato (usr:Niconato[(14,108,1)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(109,19,8)]) : priv_msg=niconato
+HREF: Niconato (usr:Niconato[(14,108,1)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(111,19,8)]) : _src_=holder;admin_token=3614806101071356991001107748108557124;ahelp=[0x21037881];ahelp_action=reply
+HREF: P1wewe (usr:Nemis Blach[(80,62,8)]) : priv_msg=jessemller
+HREF: Niconato (usr:Niconato[(14,108,1)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(106,20,8)]) : priv_msg=niconato
+HREF: P1wewe (usr:Nemis Blach[(79,62,8)]) : priv_msg=jessemller
+HREF: P1wewe (usr:Nemis Blach[(79,62,8)]) : priv_msg=jessemller
+HREF: Niconato (usr:Niconato[(14,108,1)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(104,20,8)]) : priv_msg=p1wewe
+HREF: P1wewe (usr:Nemis Blach[(79,62,8)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(100,20,8)]) : priv_msg=niconato
+HREF: Hue100 (usr:Hue100[(14,108,1)]) : Hue100 src=[mob_68];late_join=1
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=triumphs;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=triumphs;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=triumphs;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=playerquality;task=menu
+HREF: Hue100 (usr:Hue100[(14,108,1)]) : _src_=prefs;preference=job;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : priv_msg=jessemller
+HREF: Hue100 (usr:Hue100[(14,108,1)]) : _src_=prefs;preference=job;task=close
+HREF: Hue100 (usr:Hue100[(14,108,1)]) : _src_=prefs;preference=playerquality;task=menu
+HREF: Hue100 (usr:Hue100[(14,108,1)]) : _src_=prefs;preference=changeslot;
+HREF: Jesse mller (usr:Devron[(100,18,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;subtlemessage=[mob_57]
+HREF: Hue100 (usr:Hue100[(14,108,1)]) : _src_=prefs;preference=keybinds;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=faith
+HREF: Hue100 (usr:Hue100[(14,108,1)]) : _src_=prefs;preference=keybinds;task=close
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=changeslot;
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=name;task=random
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=name;task=input
+HREF: Jesse mller (usr:Devron[(70,61,8)]) : priv_msg=niconato
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=keybinds;task=menu
+HREF: Niconato (usr:Niconato[(14,108,1)]) : _src_=prefs;preference=keybinds;task=close
+HREF: Niconato (usr:Niconato[(14,108,1)]) : priv_msg=jessemller
+HREF: Niconato (usr:Niconato[(14,108,1)]) : Niconato src=[mob_72];late_join=1
+HREF: Niconato (usr:Niconato[(14,108,1)]) : Niconato src=[mob_72];SelectedJob=Adventurer
+HREF: Jesse mller (usr:Devron[(61,55,8)]) : priv_msg=niconato
+HREF: P1wewe (usr:Nemis Blach[(71,61,8)]) : The leather trousers src=[0x2053ef0];inspect=1
+HREF: Niconato (usr:Shran'qoshai[(44,80,8)]) : priv_msg=jessemller
+HREF: Jesse mller (usr:Devron[(74,57,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;getmob=[mob_73]
+HREF: Jesse mller (usr:Devron[(75,58,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;getmob=[mob_70]
+HREF: Niconato (usr:Shran'qoshai[(80,62,8)]) : Vote src=[0x2100004f]
+HREF: Jesse mller (usr:Devron[(80,61,8)]) : Vote src=[0x2100004f]
+HREF: Jesse mller (usr:Devron[(80,61,8)]) : Vote src=[0x2100004f];vote=2
+HREF: Jesse mller (usr:Devron[(80,61,8)]) : Vote src=[0x2100004f];vote=close
+HREF: Niconato (usr:Shran'qoshai[(80,62,8)]) : Vote src=[0x2100004f];vote=2
+HREF: P1wewe (usr:Nemis Blach[(81,61,8)]) : Vote src=[0x2100004f]
+HREF: Jesse mller (usr:Devron[(80,61,8)]) : _src_=holder;admin_token=3614806101071356991001107748108557124;ahelp=[0x21037881];ahelp_action=reply
+HREF: P1wewe (usr:Nemis Blach[(81,61,8)]) : Vote src=[0x2100004f];vote=1
+HREF: P1wewe (usr:Nemis Blach[(81,61,8)]) : Vote src=[0x2100004f];vote=1
+HREF: TheGodGuy (usr:Aquila[(66,66,4)]) : _src_=holder;admin_token=3614806101071356991001107748108557124;ahelp=[0x21037881];ahelp_action=reply
+HREF: P1wewe (usr:Nemis Blach[(81,61,8)]) : Vote src=[0x2100004f];vote=close
+HREF: Niconato (usr:Shran'qoshai[(80,62,8)]) : Vote src=[0x2100004f];vote=2
+HREF: Jesse mller (usr:Devron[(80,61,8)]) : priv_msg=p1wewe
+HREF: TheGodGuy (usr:Aquila[(66,66,4)]) : _src_=holder;admin_token=3614806101071356991001107748108557124;ahelp=[0x21037881];ahelp_action=reply
+HREF: Niconato (usr:Shran'qoshai[(71,62,8)]) : Vote src=[0x2100004f];vote=close
+HREF: Jesse mller (usr:Devron[(71,61,8)]) : _src_=holder;admin_token=666831038620506006310656761031391024;jumpto=[mob_73]
+HREF: P1wewe (usr:Nemis Blach[(72,62,9)]) : priv_msg=thegodguy
+HREF: P1wewe (usr:Nemis Blach[(82,62,8)]) : src=P1wewe;playerlistrogue=1
+HREF: Niconato (usr:Shran'qoshai[(80,62,8)]) : src=Niconato;playerlistrogue=1
+HREF: P1wewe (usr:Nemis Blach[(82,62,8)]) : src=P1wewe;commendsomeone=1

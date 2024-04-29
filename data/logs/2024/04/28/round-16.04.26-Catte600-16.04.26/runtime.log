@@ -1,0 +1,69 @@
+Starting up round ID Catte600-16.04.26.
+-------------------------
+Running /tg/ revision: 
+No commit information
+Initialized Title Screen subsystem within 0 seconds!
+Initialized Database subsystem within 0 seconds!
+Initialized Blackbox subsystem within 0 seconds!
+Initialized Server Tasks subsystem within 0 seconds!
+Initialized Input subsystem within 0 seconds!
+Initialized Vis contents overlays subsystem within 0 seconds!
+Initialized Triumphs subsystem within 0 seconds!
+Initialized Achievements subsystem within 0 seconds!
+Initialized Materials subsystem within 0 seconds!
+Initialized Research subsystem within 0.1 seconds!
+Initialized Events subsystem within 0 seconds!
+Initialized Jobs subsystem within 0 seconds!
+Initialized Quirks subsystem within 0 seconds!
+Initialized Ticker subsystem within 0 seconds!
+runtime error: json_decode error: Expected comma or } at ",
+    "map_file": "smalldecap (character 67)
+proc name: LoadConfig (/datum/map_config/proc/LoadConfig)
+  source file: code/datums/map_config.dm,65
+  usr: null
+  src: /datum/map_config (/datum/map_config)
+  call stack:
+/datum/map_config (/datum/map_config): LoadConfig("_maps/map_files/otherz/smallde...", 1)
+load map config("_maps/map_files/otherz/smallde...", null, null, 1)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(542679)
+Master (/datum/controller/master): Initialize(10, 0, 1)
+
+RED ALERT! The following map files failed to load: _maps/map_files/BoxStation/BoxStation.dmm. Yell at your server host!
+Initialized Mapping subsystem within 13.8 seconds!
+Initialized Networks subsystem within 0 seconds!
+Initialized Economy subsystem within 0 seconds!
+Initialized Atoms subsystem within 34.9 seconds!
+Initialized Language subsystem within 0 seconds!
+Initialized Machines subsystem within 0 seconds!
+Initialized treesetup subsystem within 1.2 seconds!
+Initialized Skills subsystem within 0 seconds!
+Initialized Atmos Adjacency subsystem within 0.8 seconds!
+Initialized Disease subsystem within 0 seconds!
+Initialized Night Shift subsystem within 0 seconds!
+Initialized Parallax subsystem within 0 seconds!
+Initialized Runechat subsystem within 0 seconds!
+Initialized Traumas subsystem within 0 seconds!
+Initialized Weather subsystem within 0 seconds!
+Initialized humannpc subsystem within 0 seconds!
+Initialized treasury subsystem within 0 seconds!
+## WARNING: 
+Initialized Atmospherics subsystem within 21 seconds!
+Initialized Assets subsystem within 0 seconds!
+Initialized Icon Smoothing subsystem within 14.1 seconds!
+Initialized Overlay subsystem within 2 seconds!
+Initialized XKeyScore subsystem within 0 seconds!
+Initialized PRISM subsystem within 0 seconds!
+Initialized Lighting subsystem within 11 seconds!
+## WARNING: couldn't find dock with id: supply_home in code/controllers/subsystem/shuttle.dm at line 179 src: Shuttle usr: .
+## WARNING: No /obj/docking_port/mobile/arrivals placed on the map! in code/controllers/subsystem/shuttle.dm at line 83 src: Shuttle usr: .
+## WARNING: No /obj/docking_port/mobile/emergency placed on the map! in code/controllers/subsystem/shuttle.dm at line 85 src: Shuttle usr: .
+Initialized Shuttle subsystem within 0.3 seconds!
+Initialized Minor Mapping subsystem within 0.1 seconds!
+Initialized Librarian subsystem within 0 seconds!
+Initialized Pathfinder subsystem within 0 seconds!
+Initialized Discord subsystem within 0 seconds!
+Initialized Persistence subsystem within 0 seconds!
+Initialized Chat subsystem within 0 seconds!
+Initializations complete within 99.7 seconds!
+## WARNING: couldn't find dock with id: supply_home in code/controllers/subsystem/shuttle.dm at line 179 src: Shuttle usr: .

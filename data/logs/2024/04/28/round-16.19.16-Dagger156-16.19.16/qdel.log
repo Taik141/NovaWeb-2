@@ -1,0 +1,3303 @@
+Starting up round ID Dagger156-16.19.16.
+-------------------------
+QDEL: Path: /datum/controller
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 0.00939941ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 122.91ms
+Path: /mob/dead/new_player
+	qdel() Count: 1
+	Destroy() Cost: 0.873398ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0.1201ms
+Path: /obj/screen/alert/status_effect/stun
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 0.0794983ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0.0539ms
+Path: /obj/screen/advsetup
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 0.0904002ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0.0534999ms
+Path: /turf/closed/mineral/random/rogue
+	qdel() Count: 8369
+	Destroy() Cost: 653.789ms
+Path: /turf/open/transparent/openspace
+	qdel() Count: 3126
+	Destroy() Cost: 209.209ms
+Path: /turf/open/floor/rogue/dirt
+	qdel() Count: 3542
+	Destroy() Cost: 157.66ms
+Path: /turf/open/floor/rogue/grass
+	qdel() Count: 1899
+	Destroy() Cost: 108.605ms
+Path: /turf/closed/mineral/random/rogue/high
+	qdel() Count: 691
+	Destroy() Cost: 56.7803ms
+Path: /datum/timedevent
+	qdel() Count: 2225
+	Destroy() Cost: 29.8157ms
+Path: /turf/closed/mineral/random/rogue/med
+	qdel() Count: 300
+	Destroy() Cost: 25.368ms
+Path: /turf/open/space/transit
+	qdel() Count: 158
+	Destroy() Cost: 12.361ms
+Path: /obj/structure/flora/newtree
+	qdel() Count: 132
+	Destroy() Cost: 11.0916ms
+Path: /turf/closed
+	qdel() Count: 85
+	Destroy() Cost: 8.31561ms
+Path: /turf/open/water/swamp
+	qdel() Count: 73
+	Destroy() Cost: 7.64248ms
+Path: /atom/movable/lighting_object
+	qdel() Count: 231
+	Destroy() Cost: 6.5302ms
+Path: /obj/item/book/random
+	qdel() Count: 117
+	Destroy() Cost: 6.50705ms
+Path: /turf/open/floor/rogue/ruinedwood
+	qdel() Count: 72
+	Destroy() Cost: 5.2502ms
+Path: /obj/effect/overlay/water
+	qdel() Count: 146
+	Destroy() Cost: 3.03988ms
+Path: /obj/effect/overlay/water/top
+	qdel() Count: 146
+	Destroy() Cost: 2.76059ms
+Path: /datum/reagents
+	qdel() Count: 164
+	Destroy() Cost: 2.25978ms
+Path: /obj/effect/landmark/events/testportal
+	qdel() Count: 15
+	Destroy() Cost: 0.942997ms
+Path: /obj/item/book/rogue/secret/xylix
+	qdel() Count: 13
+	Destroy() Cost: 0.941185ms
+Path: /obj/item/book/rogue/secret
+	qdel() Count: 15
+	Destroy() Cost: 0.930195ms
+Path: /obj/effect/landmark/latejoin
+	qdel() Count: 19
+	Destroy() Cost: 0.833395ms
+Path: /obj/item/book/rogue/bibble
+	qdel() Count: 13
+	Destroy() Cost: 0.794975ms
+Path: /datum/hud
+	qdel() Count: 1
+	Destroy() Cost: 0.766098ms
+Path: /obj/effect/landmark/start/bogguardsman
+	qdel() Count: 15
+	Destroy() Cost: 0.695999ms
+Path: /obj/screen/char_preview
+	qdel() Count: 12
+	Destroy() Cost: 0.618778ms
+Path: /obj/item/book/rogue/secret/ledger
+	qdel() Count: 9
+	Destroy() Cost: 0.585701ms
+Path: /obj/effect/landmark/start/manorguardsman
+	qdel() Count: 9
+	Destroy() Cost: 0.386899ms
+Path: /obj/effect/landmark/start/villager
+	qdel() Count: 9
+	Destroy() Cost: 0.355904ms
+Path: /obj/item/bodypart/r_arm
+	qdel() Count: 9
+	Destroy() Cost: 0.341455ms
+Path: /obj/item/organ/lungs
+	qdel() Count: 5
+	Destroy() Cost: 0.340867ms
+Path: /obj/item/organ/heart
+	qdel() Count: 5
+	Destroy() Cost: 0.331901ms
+Path: /obj/effect/landmark/start/bandit
+	qdel() Count: 8
+	Destroy() Cost: 0.325002ms
+Path: /obj/item/reagent_containers/food/snacks/butter
+	qdel() Count: 3
+	Destroy() Cost: 0.3026ms
+Path: /datum/status_effect/incapacitating/stun
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 0.290199ms
+Path: /obj/screen/daynight
+	qdel() Count: 3
+	Destroy() Cost: 0.2678ms
+Path: /obj/item/organ/eyes
+	qdel() Count: 5
+	Destroy() Cost: 0.254562ms
+Path: /obj/effect/landmark/start/adventurer
+	qdel() Count: 6
+	Destroy() Cost: 0.252198ms
+Path: /obj/item/reagent_containers/food/snacks/fishandchips
+	qdel() Count: 1
+	Destroy() Cost: 0.25ms
+Path: /obj/item/bodypart/l_arm
+	qdel() Count: 4
+	Destroy() Cost: 0.244127ms
+Path: /obj/item/organ/stomach
+	qdel() Count: 5
+	Destroy() Cost: 0.243391ms
+Path: /obj/item/organ/brain
+	qdel() Count: 5
+	Destroy() Cost: 0.243332ms
+Path: /obj/effect/landmark/start/farmer
+	qdel() Count: 6
+	Destroy() Cost: 0.2409ms
+Path: /obj/item/organ/ears
+	qdel() Count: 5
+	Destroy() Cost: 0.239319ms
+Path: /obj/effect/landmark/start/guardsman
+	qdel() Count: 6
+	Destroy() Cost: 0.2323ms
+Path: /obj/item/organ/liver
+	qdel() Count: 5
+	Destroy() Cost: 0.23112ms
+Path: /obj/effect/landmark/start/mercenary
+	qdel() Count: 5
+	Destroy() Cost: 0.209801ms
+Path: /obj/item/organ/tongue
+	qdel() Count: 5
+	Destroy() Cost: 0.205208ms
+Path: /datum/component/forensics
+	qdel() Count: 5
+	Destroy() Cost: 0.186801ms
+Path: /obj/effect/landmark/start/gravedigger
+	qdel() Count: 4
+	Destroy() Cost: 0.174503ms
+Path: /obj/item/book/random/triple
+	qdel() Count: 3
+	Destroy() Cost: 0.15564ms
+Path: /obj/effect/landmark/start/knight
+	qdel() Count: 2
+	Destroy() Cost: 0.141301ms
+Path: /obj/effect/landmark/start/beastmonger
+	qdel() Count: 3
+	Destroy() Cost: 0.137299ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/salami
+	qdel() Count: 2
+	Destroy() Cost: 0.1315ms
+Path: /obj/effect/decal/cleanable/cobweb
+	qdel() Count: 1
+	Destroy() Cost: 0.125702ms
+Path: /obj/item/reagent_containers/food/snacks/grown/nettle
+	qdel() Count: 1
+	Destroy() Cost: 0.125ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/carrot
+	qdel() Count: 1
+	Destroy() Cost: 0.125ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/birthday
+	qdel() Count: 1
+	Destroy() Cost: 0.125ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/fatty
+	qdel() Count: 1
+	Destroy() Cost: 0.125ms
+Path: /obj/item/reagent_containers/food/snacks/kebab/rat/double
+	qdel() Count: 1
+	Destroy() Cost: 0.125ms
+Path: /obj/item/reagent_containers/food/snacks/taco
+	qdel() Count: 1
+	Destroy() Cost: 0.125ms
+Path: /obj/item/reagent_containers/food/snacks/soup/clownstears
+	qdel() Count: 1
+	Destroy() Cost: 0.125ms
+Path: /obj/item/reagent_containers/food/snacks/candy
+	qdel() Count: 1
+	Destroy() Cost: 0.125ms
+Path: /obj/item/reagent_containers/food/drinks/flask/gold
+	qdel() Count: 1
+	Destroy() Cost: 0.125ms
+Path: /obj/effect/landmark/start/monk
+	qdel() Count: 3
+	Destroy() Cost: 0.122702ms
+Path: /obj/effect/landmark/start/vagrant
+	qdel() Count: 3
+	Destroy() Cost: 0.114601ms
+Path: /obj/effect/landmark/start/nightmaiden
+	qdel() Count: 3
+	Destroy() Cost: 0.110101ms
+Path: /obj/effect/landmark/start/squire
+	qdel() Count: 2
+	Destroy() Cost: 0.1071ms
+Path: /datum/reagent/water/gross
+	qdel() Count: 8
+	Destroy() Cost: 0.104298ms
+Path: /obj/effect/landmark/start/priest
+	qdel() Count: 1
+	Destroy() Cost: 0.0991993ms
+Path: /obj/effect/landmark/start/churchling
+	qdel() Count: 2
+	Destroy() Cost: 0.0983ms
+Path: /obj/screen/area_text
+	qdel() Count: 1
+	Destroy() Cost: 0.0944ms
+Path: /obj/effect/landmark/start/prisoner
+	qdel() Count: 2
+	Destroy() Cost: 0.0942001ms
+Path: /turf/open/floor/rogue/dirt/road
+	qdel() Count: 2
+	Destroy() Cost: 0.0906982ms
+Path: /turf/closed/wall/mineral/rogue/wooddark
+	qdel() Count: 1
+	Destroy() Cost: 0.0882006ms
+Path: /obj/effect/landmark/start/mason
+	qdel() Count: 2
+	Destroy() Cost: 0.082201ms
+Path: /obj/effect/landmark/start/sapprentice
+	qdel() Count: 2
+	Destroy() Cost: 0.0812016ms
+Path: /obj/effect/landmark/start/jester
+	qdel() Count: 1
+	Destroy() Cost: 0.0771999ms
+Path: /obj/effect/landmark/start/servant
+	qdel() Count: 2
+	Destroy() Cost: 0.076601ms
+Path: /obj/effect/landmark/start/woodsman
+	qdel() Count: 2
+	Destroy() Cost: 0.0743999ms
+Path: /obj/screen/fullscreen/blind
+	qdel() Count: 1
+	Destroy() Cost: 0.0732ms
+Path: /obj/screen/splash
+	qdel() Count: 1
+	Destroy() Cost: 0.0731ms
+Path: /obj/effect/landmark/start/veteran
+	qdel() Count: 1
+	Destroy() Cost: 0.0706997ms
+Path: /obj/effect/landmark/start/butler
+	qdel() Count: 2
+	Destroy() Cost: 0.0673008ms
+Path: /obj/screen/plane_master/openspace
+	qdel() Count: 1
+	Destroy() Cost: 0.0638885ms
+Path: /obj/item/reagent_containers/food/snacks
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/banana/bluespace
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/poppy
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/poppy/lily
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/ambrosia
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/ambrosia/vulgaris
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/ambrosia/deus
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/ambrosia/gaia
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/apple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/apple/gold
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/berries/poison
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/berries/death
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/wheat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/oat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/rice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/meatwheat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/chili
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/ghost_chili
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/citrus
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/citrus/lime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/citrus/orange
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/citrus/lemon
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/bungopit
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/corn
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/eggplant
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/trumpet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/harebell
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/moonflower
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/garlic
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/grass
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/grass/fairy
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/grass/carpet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/kudzupod
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/watermelon
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/galaxythistle
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/cabbage
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/sugarcane
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/cherry_bomb
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom/reishi
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom/amanita
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom/angel
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom/libertycap
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom/plumphelmet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom/walkingmushroom
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom/chanterelle
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom/glowshroom/glowcap
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom/glowshroom/shadowshroom
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/nettle/basic
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/onion/red
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/potato
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/potato/wedges
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/potato/sweet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/blumpkin
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/rainbow_flower
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/parsnip
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/whitebeet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/redbeet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/tea
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/tea/astra
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/coffee
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/coffee/robusta
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/tobacco
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/tobacco/space
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/tomato
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/grown/ash_flora/shavings
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/urinalcake
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/sugarcookie/spookyskull
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/burger
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/bread
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/pasta
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/pie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/pizza
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/salad
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/salad/ashsalad
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/soup/ashsoup
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/bread
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/bread/plain
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/bread/meat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/bread/xenomeat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/bread/spidermeat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/bread/banana
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/bread/tofu
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/bread/creamcheese
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/bread/mimana
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/plain
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/cheese
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/orange
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/lime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/lemon
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/chocolate
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/slimecake
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/pumpkinspice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/bsvc
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/vanilla_cake
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/clown_cake
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/trumpet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/brioche
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/breadslice/mimana
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/baguette
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/garlicbread
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/deepfryholder
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/butterdog
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/corgi
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/appendix
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/fish
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/tofu
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/roburger
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/bearger
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/clown
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/mime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/brain
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/red
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/orange
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/purple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/spell
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/bigbite
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/jelly/slime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/jelly/cherry
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/superbite
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/rat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/baseball
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/baconburger
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/empoweredburger
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burger/crab
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/plain
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/cheese
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/orange
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/lime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/lemon
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/chocolate
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/birthday
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/birthday/energy
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/apple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/pumpkinspice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/bsvc
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/vanilla_slice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/clown_slice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/trumpet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/steak
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/steak/fried
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/mince
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/mince/beef
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/mince/poultry
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/mince/fish
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/poultry/cutlet/fried
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/sausage
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/sausage/cooked
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/salami/slice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/coppiette
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/saltfish
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/cheese
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/cheddar
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/cheddarwedge
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/cheddarwedge/aged
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/cheddarslice/aged
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/honey
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/dough
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/doughslice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/crackerscooked
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/cheeseegg
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/bread
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/breadslice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/breadslice/toast
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/breadslice/toastbuttered
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/bun
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/bun/honey
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/biscuitcooked/butter
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/raisinbread
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/biscuituncooked
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/ccake
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/cooked
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/cooked/berry
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/cooked/apple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/cooked/meat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/cooked/meat/fish
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/cooked/egg
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/berry
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/egg
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pieslice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/peppersteak
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/spicedeggs
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/dogroll
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/sandwich
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/fryfish/eel
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/egg/blue
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/egg/green
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/egg/mime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/egg/orange
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/egg/purple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/egg/rainbow
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/egg/red
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/friedegg
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/boiledegg
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/omelette
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/icecreamsandwich
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/spacefreezy
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/lime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/lemon
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/apple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/grape
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/mix
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/fruitsalad
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/mime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/clown
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/soda
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/pwgrmer
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cubancarp
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/carpmeat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/carpmeat/imitation
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/fishfingers
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/tofu
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/bearsteak
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/faggot
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/sausage
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/kebab/rat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rawkhinkali
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/khinkali
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/monkeycube
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/monkeycube/syndicate
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/monkeycube/gorilla
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/enchiladas
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/stewedsoymeat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/sashimi
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/nugget
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pigblanket
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/bbqribs
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cheesewedge
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/candy_corn/prison
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/popcorn
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/loadedbakedpotato
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/fries
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/tatortot
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soydope
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cheesyfries
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/carrotfries
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/candiedapple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/spiderling
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/spiderlollipop
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/chococoin
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/chocoorange
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/burrito
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cheesyburrito
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/carneburrito
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/fuegoburrito
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/yakiimo
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cubannachos
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/honeybar
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/stuffedlegion
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/powercrepe
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/lollipop
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/lollipop/cyborg
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/gumball
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/gumball/cyborg
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/onionrings
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/tinychocolate
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/canned
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/canned/beans
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/canned/peaches
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/canned/peaches/maint
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/donut
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/donut/plain
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/donut/bungo
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/matcha
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/slimejelly
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/slimejelly/plain
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/slimejelly/trumpet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/slimejelly/apple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/slimejelly/caramel
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/slimejelly/choco
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/slimejelly/bungo
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/muffin/booberry
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soylentgreen
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soylenviridians
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/rofflewaffles
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cookie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/fortunecookie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/poppypretzel
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/plumphelmetbiscuit
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meatbun
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/khachapuri
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/plain
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/cream
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/cream/nostun
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/bearypie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/meatpie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/tofupie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/amanita_pie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/plump_pie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/xemeatpie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/applepie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/cherrypie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/pumpkinpie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/appletart
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/grapetart
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/mimetart
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/berrytart
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/cocolavatart
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/blumpkinpie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pie/baklava
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pumpkinpieslice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/blumpkinpieslice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/dulcedebatataslice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/baklavaslice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizza
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizza/margherita
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizza/mushroom
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizza/vegetable
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizza/donkpocket
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizza/pineapple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizza/arnold
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizzaslice/margherita
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizzaslice/meat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizzaslice/mushroom
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizzaslice/vegetable
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizzaslice/donkpocket
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizzaslice/pineapple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizzaslice/custom
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/salad
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/salad/aesirsalad
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/salad/herbsalad
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/salad/fruit
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/salad/jungle
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/salad/citrusdelight
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/salad/ricepork
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/jellysandwich
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/jellysandwich/slime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/jelliedtoast/slime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/butteredtoast
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/twobread
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/wish
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/meatball
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/slime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/blood
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/wingfangchu
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/hotchili
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/coldchili
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/tomato
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/tomato/eyeball
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/milo
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/beet/red
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/amanitajelly
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/sweetpotato
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/onion
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/electron
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/soup/mammi
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/spaghetti/boiledspaghetti
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/spaghetti/pastatomato
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/spaghetti/spesslaw
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/spaghetti/chowmein
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/spaghetti/beefnoodle
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/sosjerky
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/sosjerky/healthy
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/chips
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/no_raisin/healthy
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/candy_trash
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/cheesiehonkers
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/syndicake
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/energybar
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/dough
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/flatdough
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pizzabread
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/doughslice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/pastrybase
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/zombie
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/ethereal
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/synthmeat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/meatproduct
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/monkey
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/mouse
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/corgi
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/pug
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/gorilla
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/gondola
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/penguin
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/rawbacon
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/steak/bear
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/steak/xeno
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/steak/spider
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/steak/goliath
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/rawcutlet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/rawcutlet/plain
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/rawcutlet/gondola
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/rawcutlet/penguin
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/cutlet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/cutlet/bear
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/cutlet/xeno
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/cutlet/spider
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/cutlet/gondola
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/meat/cutlet/penguin
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/hotcrossbun
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/scotchegg
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/onion_slice/red
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/deadmouse
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/crow
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/smallrat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/smallrat/dead
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/fat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/fat/salo
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/fat/salo/slice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/fish
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/fish/dead
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/snacks/organ
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/canned_laughter
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/cola
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/tonic
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/sodawater
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/lemon_lime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/shamblers
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/grey_bull
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/monkey_energy
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/air
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/trophy
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/trophy/gold_cup
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/ice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/ice/prison
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/mug
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/ale
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/sillycup
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/sillycup/smallcarton
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/shaker
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/flask
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/flask/det
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/britcup
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/gin
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/vodka
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/vodka/badminka
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/tequila
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/bottleofnothing
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/rum
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/holywater
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/holywater/hell
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/vermouth
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/kahlua
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/goldschlager
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/cognac
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/wine
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/absinthe
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/absinthe/premium
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/lizardwine
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/hcider
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/fernet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/orangejuice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/cream
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/menthol
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/blazaam
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/trappist
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/moonshine
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/blank
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/blank/small
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/molotov
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/drinkingglass
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/drinkingglass/shotglass
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/drinkingglass/filled
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/drinkingglass/filled/soda
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/drinkingglass/filled/cola
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/drinks/drinkingglass/filled/nuka_cola
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/destroy_sound
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/sugar
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/saltshaker
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/peppermill
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/milk
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/flour
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/rice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/mayonnaise
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/pack
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/pack/ketchup
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/pack/hotsauce
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/pack/astrotame
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/reagent_containers/food/condiment/pack/bbqsauce
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/sample
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/sample/alienweed
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/ambrosia
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/ambrosia/deus
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/ambrosia/gaia
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/apple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/apple/gold
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/banana
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/banana/mime
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/banana/bluespace
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/berry/poison
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/berry/death
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/cherry
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/cherry/blue
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/cherry/bulb
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/cherry/bomb
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/cannabis
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/cannabis/rainbow
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/cannabis/death
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/cannabis/white
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/wheat/oat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/wheat/rice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/wheat/meat
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/chili
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/chili/ice
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/chili/ghost
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/cotton
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/poppy/lily
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/poppy/lily/trumpet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/poppy/geranium
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/garlic
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/grass
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/kudzu
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/watermelon/holy
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/starthistle
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/reishi
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/amanita
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/glowshroom/shadowshroom
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/nettle
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/nettle/death
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/onion
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/onion/red
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/pineapple
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/potato
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/potato/sweet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/pumpkin
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/random
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/replicapod
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/pipeweed
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/berryrogue/poison
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/carrot
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/carrot/parsnip
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/whitebeet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/redbeet
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/tea
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/tea/astra
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/coffee
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/tomato/blue
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/tomato/blue/bluespace
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/tower
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/tower/steel
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/bamboo
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/lavaland
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/lavaland/cactus
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/item/seeds/lavaland/polypore
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /datum/game_mode/cult
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /datum/game_mode/roguewar
+	qdel() Count: 1
+	Destroy() Cost: 0.0625ms
+Path: /obj/effect/landmark/start/lord
+	qdel() Count: 1
+	Destroy() Cost: 0.0569ms
+Path: /obj/effect/landmark/start/bogmaster
+	qdel() Count: 1
+	Destroy() Cost: 0.0492992ms
+Path: /datum/DBQuery
+	qdel() Count: 3
+	Destroy() Cost: 0.048687ms
+Path: /obj/effect/landmark/start/armorsmith
+	qdel() Count: 1
+	Destroy() Cost: 0.0479002ms
+Path: /obj/effect/landmark/start/templar
+	qdel() Count: 1
+	Destroy() Cost: 0.0462017ms
+Path: /obj/effect/landmark/start/merchant
+	qdel() Count: 1
+	Destroy() Cost: 0.0462017ms
+Path: /obj/effect/landmark/start/steward
+	qdel() Count: 1
+	Destroy() Cost: 0.0440998ms
+Path: /obj/effect/landmark/start/new_player
+	qdel() Count: 1
+	Destroy() Cost: 0.0440006ms
+Path: /obj/effect/landmark/start/wapprentice
+	qdel() Count: 1
+	Destroy() Cost: 0.043499ms
+Path: /obj/effect/landmark/start/shophand
+	qdel() Count: 1
+	Destroy() Cost: 0.0417004ms
+Path: /obj/effect/landmark/start/barkeep
+	qdel() Count: 1
+	Destroy() Cost: 0.0415001ms
+Path: /obj/effect/landmark/start/prince
+	qdel() Count: 1
+	Destroy() Cost: 0.0412006ms
+Path: /obj/effect/landmark/start/cook
+	qdel() Count: 1
+	Destroy() Cost: 0.0409002ms
+Path: /obj/effect/landmark/start/sheriff
+	qdel() Count: 1
+	Destroy() Cost: 0.0408993ms
+Path: /obj/effect/landmark/start/magician
+	qdel() Count: 1
+	Destroy() Cost: 0.0404015ms
+Path: /obj/effect/landmark/start/dungeoneer
+	qdel() Count: 1
+	Destroy() Cost: 0.0400009ms
+Path: /icon
+	qdel() Count: 2
+	Destroy() Cost: 0.0395966ms
+Path: /obj/effect/landmark/start/weaponsmith
+	qdel() Count: 1
+	Destroy() Cost: 0.0382996ms
+Path: /obj/effect/landmark/start/hand
+	qdel() Count: 1
+	Destroy() Cost: 0.0369997ms
+Path: /obj/effect/landmark/start/lady
+	qdel() Count: 1
+	Destroy() Cost: 0.0366993ms
+Path: /datum/species/human/northern
+	qdel() Count: 1
+	Destroy() Cost: 0.036499ms
+Path: /obj/effect/landmark/start/watchman
+	qdel() Count: 1
+	Destroy() Cost: 0.0363998ms
+Path: /obj/effect/landmark/start/archivist
+	qdel() Count: 1
+	Destroy() Cost: 0.0356998ms
+Path: /obj/screen/plane_master/osreal
+	qdel() Count: 1
+	Destroy() Cost: 0.035202ms
+Path: /obj/screen/plane_master/game_world_fov_hidden
+	qdel() Count: 1
+	Destroy() Cost: 0.033905ms
+Path: /obj/screen/plane_master/indoor_mask
+	qdel() Count: 1
+	Destroy() Cost: 0.0337982ms
+Path: /datum/reagent/water
+	qdel() Count: 4
+	Destroy() Cost: 0.0330982ms
+Path: /obj/screen/plane_master/parallax
+	qdel() Count: 1
+	Destroy() Cost: 0.0328979ms
+Path: /obj/screen/plane_master/camera_static
+	qdel() Count: 1
+	Destroy() Cost: 0.0327911ms
+Path: /obj/screen/plane_master/floor
+	qdel() Count: 1
+	Destroy() Cost: 0.0325928ms
+Path: /obj/screen/plane_master/lighting
+	qdel() Count: 1
+	Destroy() Cost: 0.0319061ms
+Path: /obj/screen/plane_master/game_world_above
+	qdel() Count: 1
+	Destroy() Cost: 0.0318909ms
+Path: /obj/screen/plane_master/parallax_white
+	qdel() Count: 1
+	Destroy() Cost: 0.0317993ms
+Path: /obj/screen/plane_master/weather
+	qdel() Count: 1
+	Destroy() Cost: 0.0317993ms
+Path: /obj/screen/plane_master/game_world
+	qdel() Count: 1
+	Destroy() Cost: 0.031601ms
+Path: /obj/screen/plane_master/o_light_visual
+	qdel() Count: 1
+	Destroy() Cost: 0.031601ms
+Path: /obj/screen/plane_master/field_of_vision_blocker
+	qdel() Count: 1
+	Destroy() Cost: 0.0314026ms
+Path: /datum/reagent/consumable/nutriment
+	qdel() Count: 3
+	Destroy() Cost: 0.0281999ms
+Path: /image
+	qdel() Count: 2
+	Destroy() Cost: 0.0253ms
+Path: /datum/map_config
+	qdel() Count: 1
+	Destroy() Cost: 0.0157013ms
+Path: /datum/species/dwarf/mountain
+	qdel() Count: 1
+	Destroy() Cost: 0.00760269ms
+Path: /datum/species/human/halfelf
+	qdel() Count: 1
+	Destroy() Cost: 0.00640106ms
+Path: /datum/species/elf/dark
+	qdel() Count: 1
+	Destroy() Cost: 0.00580215ms
+Path: /datum/species/elf/snow
+	qdel() Count: 1
+	Destroy() Cost: 0.00559998ms
+Path: /datum/species/tieberian
+	qdel() Count: 1
+	Destroy() Cost: 0.00559998ms
+Path: /datum/species/aasimar
+	qdel() Count: 1
+	Destroy() Cost: 0.00550079ms
+Path: /obj/docking_port/stationary
+	qdel() Count: 1
+	Destroy() Cost: 0.00379944ms
+Path: /obj/item/reagent_containers/food/snacks/grown/banana
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/banana/bombanana
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/banana/mime
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/poppy/geranium
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/shell
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/shell/eggy
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/shell/gatfruit
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/soybeans
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/koibeans
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/berries
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/berries/glow
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/berries/rogue
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/berries/rogue/poison
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/cherries
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/bluecherries
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/cherrybulbs
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/grapes
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/grapes/green
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/cannabis
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/cannabis/rainbow
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/cannabis/death
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/cannabis/white
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/cannabis/ultimate
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/icepepper
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/citrus/orange_3d
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/firelemon
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/cocoapod
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/vanillapod
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/bungofruit
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/holymelon
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom/jupitercup
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/mushroom/glowshroom
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/nettle/death
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/onion
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/pineapple
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/pumpkin
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/random
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/rogue
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/rogue/sweetleaf
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/rogue/sweetleafdry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/rogue/pipeweed
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/rogue/pipeweeddry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/carrot
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/tomato/blood
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/tomato/blue
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/tomato/blue/bluespace
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/tomato/killer
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/ash_flora
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/ash_flora/mushroom_leaf
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/ash_flora/mushroom_cap
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/ash_flora/mushroom_stem
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grown/ash_flora/cactus_fruit
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/clothing
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/sugarcookie
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/sugarcookie/spookycoffin
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/candyheart
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/customizable
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/cake
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/kebab
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/sandwich
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/customizable/soup
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/brain
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/birthday/energy
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/apple
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/bscc
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/holy_cake
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/pound_cake
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/store/cake/hardware_cake
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/store/cheesewheel
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/breadslice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/breadslice/plain
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/breadslice/meat
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/breadslice/xenomeat
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/breadslice/spidermeat
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/breadslice/banana
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/breadslice/tofu
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/breadslice/creamcheese
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/breadslice/custom
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/plain
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/human
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/roburgerbig
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/xeno
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/ghost
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/yellow
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/green
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/blue
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/black
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/white
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/jelly
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/burger/fivealarm
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/carrot
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/brain
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/custom
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/slimecake
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/bscc
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/holy_cake_slice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/pound_cake_slice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/hardware_cake_slice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cakeslice/brioche
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/chocolateegg
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/friedegg
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/friedcrow
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/friedrat
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/bacon
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/bacon/fried
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/spider
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/poultry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/poultry/baked
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/meat/poultry/cutlet
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/raisins
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/cheddar/aged
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/cheddarslice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/crackers
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/cheeseeggcooked
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/biscuitcooked
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/rbreaduncooked
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/raisinbreadslice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/ccakeuncooked
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/ccakeslice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/cooked/meat/poultry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/apple
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/meat
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/meat/fish
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/pie/meat/poultry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/piedough
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/eggtoast
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/eggcheese
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/fryfish
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/fryfish/carp
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/fryfish/clownfish
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rogue/fryfish/angler
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/egg
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/egg/gland
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/egg/yellow
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/egg/loaded
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/benedict
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/sundae
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/honkdae
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/orange
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/blue
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/red
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/pineapple
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/honey
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/snowcones/rainbow
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/tofu/prison
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/spiderleg
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cornedbeef
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/kebab
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/kebab/human
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/kebab/monkey
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/kebab/tofu
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/kebab/tail
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/boiledspiderleg
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/spidereggsham
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/watermelonslice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/candy_corn
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/chocolatebar
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/hugemushroomslice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/badrecipe
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/mint
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/eggwrap
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/spidereggs
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/fudgedice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/eggplantparm
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/tortilla
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/roastparsnip
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/melonfruitbowl
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/nachos
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cheesynachos
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/melonkeg
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/taco/plain
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/branrequests
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/butter/on_a_stick
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pineappleslice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/crab_rangoon
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/chaos
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/meat
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/berry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/trumpet
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/apple
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/caramel
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/choco
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/blumpkin
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/matcha
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/plain
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/berry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/trumpet
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/apple
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/caramel
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/choco
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/blumpkin
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/bungo
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/slimejelly/berry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/slimejelly/blumpkin
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donut/jelly/slimejelly/matcha
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/muffin
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/muffin/berry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/chawanmushi
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/waffles
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donkpocket
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/donkpocket/warm
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/dankpocket
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cracker
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/hotdog
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/chococornet
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/oatmealcookie
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/raisincookie
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cherrycupcake
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/bluecherrycupcake
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/honeybun
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pancakes
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pancakes/blueberry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pancakes/chocolatechip
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pie
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pie/berryclafoutis
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pie/dulcedebatata
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pie/frostypie
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pizza/margherita/robo
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pizza/meat
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pizza/dank
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pizza/sassysage
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pizzaslice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pizzaslice/dank
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pizzaslice/sassysage
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/pizzaslice/arnold
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/salad/validsalad
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/salad/oatmeal
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/salad/ricebowl
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/salad/boiledrice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/salad/ricepudding
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/salad/eggbowl
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/sandwich
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/toastedsandwich
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/grilledcheese
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/jellysandwich/cherry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/notasandwich
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/jelliedtoast
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/jelliedtoast/cherry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/soup/vegetable
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/soup/nettle
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/soup/mystery
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/soup/monkeysdelight
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/soup/mushroom
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/soup/beet
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/soup/spacylibertyduff
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/soup/stew
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/soup/bisque
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/soup/bungocurry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/spaghetti
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/spaghetti/copypasta
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/spaghetti/meatballspaghetti
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/spaghetti/butternoodles
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/no_raisin
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/spacetwinkie
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/candy_trash/nicotine
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/bun
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/cakebatter
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/piedough
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rawpastrybase
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/slime
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/golem
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/golem/adamantine
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/lizard
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/plant
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/shadow
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/fly
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/moth
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/human/mutant/skeleton
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/killertomato
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/bear
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/xeno
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/spider
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/goliath
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/slab/meatwheat
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/bacon
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/rawcrab
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/crab
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/steak
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/steak/plain
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/steak/plain/human
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/steak/killertomato
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/steak/gondola
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/steak/penguin
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/rawcutlet/plain/human
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/rawcutlet/killertomato
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/rawcutlet/bear
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/rawcutlet/xeno
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/rawcutlet/spider
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/cutlet/plain
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/cutlet/plain/human
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/meat/cutlet/killertomato
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/icecream
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/chocolatebunny
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/onion_slice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/crow/dead
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/rationpack
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/butterslice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/fish/carp
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/fish/clownfish
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/fish/angler
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/snacks/fish/eel
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/space_up
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/starkist
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/space_mountain_wind
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/thirteenloko
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/dr_gibb
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/soda_cans/pwr_game
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/trophy/silver_cup
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/trophy/bronze_cup
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/coffee
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/mug/tea
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/mug/coco
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/dry_ramen
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/beer
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/beer/light
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/whiskey
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/patron
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/grappa
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/sake
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/tomatojuice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/limejuice
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/grenadine
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/applejack
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/champagne
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/drinks/bottle/hooch
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/condiment/enzyme
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/condiment/soymilk
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/reagent_containers/food/condiment/soysauce
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/soya
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/soya/koi
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/berry
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/berry/glow
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/grape
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/grape/green
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/cannabis/ultimate
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/wheat
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/lime
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/orange
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/lemon
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/firelemon
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/orange_3d
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/cocoapod
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/cocoapod/vanillapod
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/cocoapod/bungotree
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/corn
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/corn/snapcorn
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/cotton/durathread
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/eggplant
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/eggplant/eggy
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/poppy
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/harebell
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/sunflower
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/sunflower/moonflower
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/sunflower/novaflower
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/grass/fairy
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/grass/carpet
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/watermelon
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/starthistle/corpse_flower
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/galaxythistle
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/cabbage
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/sugarcane
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/gatfruit
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/angel
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/liberty
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/plump
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/plump/walkingmushroom
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/chanter
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/chanterelle
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/chanterelle/jupitercup
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/glowshroom
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/glowshroom/glowcap
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/pumpkin/blumpkin
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/rainbow_bunch
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/sweetleaf
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/berryrogue
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/coffee/robusta
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/tobacco
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/tobacco/space
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/tomato
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/tomato/blood
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/tomato/killer
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/lavaland/porcini
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/lavaland/inocybe
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/seeds/lavaland/ember
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/traitor
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/traitor/bros
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/traitor/changeling
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/traitor/internal_affairs
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/changeling
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/nuclear
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/nuclear/clown_ops
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/devil
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/devil/devil_agents
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/dynamic
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/extended
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/extended/announced
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/meteor
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/monkey
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/revolution
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/revolution/extended
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/revolution/speedy
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/chaosmode
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/sandbox
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/game_mode/wizard
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/turf_reservation/transit
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+	Sleeps: 1
